@@ -154,7 +154,7 @@ def draw_graphs(day):
 # In[17]:
 
 
-draw_graphs()
+display(draw_graphs())
 
 
 # In[ ]:
